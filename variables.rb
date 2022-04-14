@@ -14,3 +14,7 @@ cash = 60.42
 employed = false
 in_school = true
 insured = true
+
+first_name = "jesse"
+last_name = "burrow"
+hair_color = "brown"
